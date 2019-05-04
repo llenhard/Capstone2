@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\bin\Debug\Capstone 2.exe.config
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\bin\Debug\Capstone 2.exe
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\bin\Debug\Capstone 2.pdb
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\obj\Debug\Capstone 2.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\obj\Debug\Capstone 2.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\obj\Debug\Capstone 2.exe
+C:\Users\Luke\Desktop\gc\Labs\Capstone 2\Capstone 2\obj\Debug\Capstone 2.pdb
